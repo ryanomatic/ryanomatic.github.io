@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This is a spot for misc items of my own interest or documentation.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Maybe it can help you also.

@@ -13,7 +13,8 @@ Timeline below;
 * Nov-11, Updated that was loaded on container ship Zim Sapphire 3E with departure of 11/12 from Shenzen, China and arrival to Long Beach, CA on 11/26
     * Ship can be tracked via MarineTraffic.com
 * Nov-26, Container ship arrived at Long Beach for unloading
-* …TBD
+* Dec-6, Ready to pickup by truck "The cabinet has been disassembled, and the truck is arranged one after"
+* Dec-12, LTL Truck dropped it off
 
 ### Toolkit
 27mm socket - Rear axle

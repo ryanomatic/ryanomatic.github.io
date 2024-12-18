@@ -38,6 +38,9 @@ Stock fork seals - 37mm CRF150F fork seals fit - https://www.advrider.com/f/thre
    Also need a <50mm socket/bushing to push seal on.
 Fork Oil - 5wt? ~250ml? - https://www.advrider.com/f/threads/sur-ron-ultra-bee.1606753/page-65#post-51631469
 
+## Torque Values
+![image](https://github.com/user-attachments/assets/a7c26f6c-cbcc-4d8e-8206-ab561910eee1)
+![image](https://github.com/user-attachments/assets/b447008e-5c19-4528-aaf3-eea4e5dd8926)
 
 
 

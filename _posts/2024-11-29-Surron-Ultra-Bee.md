@@ -19,14 +19,14 @@ Timeline below;
 ### Settings Cheatsheet
 To get into settings, disable engine button then hold ASR & Ready for a few seconds.
 https://www.reddit.com/r/surron_electric/comments/18jjndr/surron_ultra_bee_settings_cheat_sheet/
-B0 - B5 = Brake regeneration (when battery under 95% in Sport mode)
-E0 - E5 = Engine coasting regeneration (when battery under 95% in Sport mode)
-A1 - A3 = Anti-Slip traction control (ASR button tap 3 times while riding to turn on or off)
-P0 - P1 = Pause engine throttle when brake is on
-C0 - C1 = Crash cutoff (C1 cuts off power if bike tilts too much)
-F1 - F3 = Throttle Finesse / sensitivity in Sport mode
-T0 - T1 = Testing mode (records diagnostics while running)
-U1 - U3 = Utility power charging speed
+*B0 - B5 = Brake regeneration (when battery under 95% in Sport mode)
+*E0 - E5 = Engine coasting regeneration (when battery under 95% in Sport mode)
+*A1 - A3 = Anti-Slip traction control (ASR button tap 3 times while riding to turn on or off)
+*P0 - P1 = Pause engine throttle when brake is on
+*C0 - C1 = Crash cutoff (C1 cuts off power if bike tilts too much)
+*F1 - F3 = Throttle Finesse / sensitivity in Sport mode
+*T0 - T1 = Testing mode (records diagnostics while running)
+*U1 - U3 = Utility power charging speed
 
 ### Less common tools needed:
 27mm socket - Rear axle nut

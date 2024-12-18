@@ -16,6 +16,30 @@ Timeline below;
 * Dec-6, Ready to pickup by truck "The cabinet has been disassembled, and the truck is arranged one after"
 * Dec-12, LTL Truck dropped it off
 
-### Toolkit
-27mm socket - Rear axle
+### Settings Cheatsheet
+To get into settings, disable engine button then hold ASR & Ready for a few seconds.
+https://www.reddit.com/r/surron_electric/comments/18jjndr/surron_ultra_bee_settings_cheat_sheet/
+B0 - B5 = Brake regeneration (when battery under 95% in Sport mode)
+E0 - E5 = Engine coasting regeneration (when battery under 95% in Sport mode)
+A1 - A3 = Anti-Slip traction control (ASR button tap 3 times while riding to turn on or off)
+P0 - P1 = Pause engine throttle when brake is on
+C0 - C1 = Crash cutoff (C1 cuts off power if bike tilts too much)
+F1 - F3 = Throttle Finesse / sensitivity in Sport mode
+T0 - T1 = Testing mode (records diagnostics while running)
+U1 - U3 = Utility power charging speed
+
+### Less common tools needed:
+27mm socket - Rear axle nut
+40mm socket or pliers wrench - Fork top cap
+
+## Misc References / Unvalidated
+### Suspension
+Stock fork seals - 37mm CRF150F fork seals fit - https://www.advrider.com/f/threads/sur-ron-ultra-bee.1606753/page-30
+   Also need a <50mm socket/bushing to push seal on.
+Fork Oil - 5wt? ~250ml? - https://www.advrider.com/f/threads/sur-ron-ultra-bee.1606753/page-65#post-51631469
+
+
+
+
+
 
